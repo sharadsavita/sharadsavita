@@ -30,6 +30,9 @@ I am passionate about Data Analytics, Business Intelligence, and creating intera
 https://github.com/sharadsavita/MediVision-360
 
 ## 📫 Connect with Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sharad+Savita;MCA+Student;Data+Analyst;Power+BI+Developer;Welcome+to+my+GitHub+Profile!" />
+</p>
 
 - LinkedIn: https://www.linkedin.com/in/sharad-savita-a08955368
 - GitHub: https://github.com/sharadsavita
