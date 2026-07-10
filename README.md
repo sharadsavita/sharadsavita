@@ -45,6 +45,12 @@ https://github.com/sharadsavita/MediVision-360
 - GitHub: https://github.com/sharadsavita
 
 ⭐ Thanks for visiting my profile!
+## 🏆 GitHub Trophies
+
+<p align="center">
+  ...
+</p>
+
 ## 👀 Profile Visitors
 
 <p align="center">
