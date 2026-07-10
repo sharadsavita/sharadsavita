@@ -45,13 +45,8 @@ https://github.com/sharadsavita/MediVision-360
 - GitHub: https://github.com/sharadsavita
 
 ⭐ Thanks for visiting my profile!
-## 📊 GitHub Stats
+## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadsavita&theme=tokyonight" />
-</p>
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharadsavita&theme=tokyonight&row=1&column=6" />
+  <img src="https://komarev.com/ghpvc/?username=sharadsavita&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
