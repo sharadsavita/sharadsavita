@@ -22,6 +22,16 @@ I am passionate about Data Analytics, Business Intelligence, and creating intera
 - Dashboard Design
 - Business Analytics
 
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 ## 📂 Featured Project
 
 ### 🏥 MediVision 360 – Hospital Analytics Dashboard
