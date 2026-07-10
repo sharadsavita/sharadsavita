@@ -50,3 +50,8 @@ https://github.com/sharadsavita/MediVision-360
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadsavita&theme=tokyonight" />
 </p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sharadsavita&theme=tokyonight&row=1&column=6" />
+</p>
