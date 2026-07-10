@@ -10,7 +10,7 @@ I am passionate about Data Analytics, Business Intelligence, and creating intera
 
 - Microsoft Excel
 - Power BI
-- SQL
+- PostgreSQL
 - Power Query
 - DAX
 - Python
