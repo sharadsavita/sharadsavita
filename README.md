@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Sharad Savita
 
-<!--
-**sharadsavita/sharadsavita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 MCA Student | 📊 Data Analyst | 📈 Power BI Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about Data Analytics, Business Intelligence, and creating interactive dashboards using Excel, Power BI, SQL, and Python.
+
+## 🚀 Skills
+
+- Microsoft Excel
+- Power BI
+- SQL
+- Power Query
+- DAX
+- Python
+- PostgreSQL
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Analytics
+
+## 📂 Featured Project
+
+### 🏥 MediVision 360 – Hospital Analytics Dashboard
+
+🔗 Repository:
+https://github.com/sharadsavita/MediVision-360
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/sharad-savita-a08955368
+- GitHub: https://github.com/sharadsavita
+
+⭐ Thanks for visiting my profile!
