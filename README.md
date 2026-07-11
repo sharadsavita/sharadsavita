@@ -46,9 +46,10 @@ https://github.com/sharadsavita/MediVision-360
 
 ⭐ Thanks for visiting my profile!
 ## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-  ...
+  <img src="https://raw.githubusercontent.com/sharadsavita/sharadsavita/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ## 👀 Profile Visitors
