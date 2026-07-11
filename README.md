@@ -60,10 +60,7 @@ https://github.com/sharadsavita/MediVision-360
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharadsavita&show_icons=true&theme=tokyonight" />
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=sharadsavita&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -71,10 +68,7 @@ https://github.com/sharadsavita/MediVision-360
 </p>
 
 ## 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadsavita&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadsavita&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 ## 📈 Contribution Graph
 
