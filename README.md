@@ -57,3 +57,27 @@ https://github.com/sharadsavita/MediVision-360
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharadsavita&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharadsavita&show_icons=true&theme=tokyonight" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sharadsavita&theme=tokyonight" />
+</p>
+
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharadsavita&layout=compact&theme=tokyonight" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharadsavita&theme=tokyo-night" />
+</p>
