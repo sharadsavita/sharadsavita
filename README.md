@@ -45,15 +45,36 @@
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,postgresql,git,github,vscode&theme=dark" />
+  <!-- C -->
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" />
 
-<br><br>
+  <!-- Java -->
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" />
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <!-- PostgreSQL -->
+  <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" />
+
+  <!-- Excel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" />
+
+  <!-- Power BI -->
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" />
+
+  <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+
+  <!-- GitHub -->
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
+
+  <!-- VS Code -->
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
 
 </p>
 
