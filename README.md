@@ -10,7 +10,19 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;Power+BI+%7C+Excel+%7C+PostgreSQL;Turning+Data+Into+Actionable+Insights!" />
 </p>
+## 🛠️ Tech Stack
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,python,postgresql,git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</p>
 
 ---
 
