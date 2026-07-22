@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sharadsavita/sharadsavita/main/baner.png" width="100%" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sharadsavita/sharadsavita/main/banner.png" width="100%" alt="Sharad Savita Banner"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Sharad Savita</h1>
 
