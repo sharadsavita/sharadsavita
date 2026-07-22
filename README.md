@@ -16,10 +16,10 @@
 
 ## 👨‍💻 About Me
 
-- 📊 Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.
-- 📈 Skilled in **Power BI, Microsoft Excel, Power Query, DAX, PostgreSQL and Python (Learning)**.
+- 📊 Aspiring *Data Analyst* passionate about transforming raw data into meaningful insights.
+- 📈 Skilled in *Power BI, Microsoft Excel, Power Query, DAX, PostgreSQL and Python (Learning)*.
 - 🚀 Currently building real-world analytics projects to strengthen my portfolio.
-- 🎯 Goal: Build a successful career in **Data Analytics & Business Intelligence**.
+- 🎯 Goal: Build a successful career in *Data Analytics & Business Intelligence*.
 
 ---
 
@@ -57,16 +57,16 @@
 ## 🚀 Featured Projects
 
 ### 🏥 MediVision 360 – Hospital Analytics Dashboard
-- 📊 Built an interactive Hospital Analytics Dashboard using **Power BI, Excel, Power Query & DAX**
+- 📊 Built an interactive Hospital Analytics Dashboard using *Power BI, Excel, Power Query & DAX*
 - 📈 Analyzed patient records, hospital performance, appointments and revenue
 - 🔗 Repository: https://github.com/sharadsavita/MediVision-360
 
 ---
 
 ### 🛒 Amazon Sales Analytics
-- 📊 Designed an interactive Sales Dashboard using **Power BI & Excel**
+- 📊 Designed an interactive Sales Dashboard using *Power BI & Excel*
 - 📈 Created KPIs, sales trends, regional analysis and customer insights
-- 🔗 Repository: *(Coming Soon)*
+- 🔗 Repository: (Coming Soon)
 
 ---
 
@@ -102,6 +102,6 @@
 
 <p align="center">
 
-**"Turning data into actionable insights through analytics and visualization."**
+*"Turning data into actionable insights through analytics and visualization."*
 
 </p>
