@@ -45,37 +45,16 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,postgresql,git,github,vscode&theme=dark" />
+  
+  &nbsp;&nbsp;
 
-  <!-- C -->
-  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Microsoft Excel" />
+  
+  &nbsp;&nbsp;
 
-  <!-- Java -->
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
-
-  <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" />
-
-  <!-- PostgreSQL -->
-  <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" />
-
-  <!-- Excel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" />
-
-  <!-- Power BI -->
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" />
-
-  <!-- Git -->
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
-
-  <!-- GitHub -->
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
-
-  <!-- VS Code -->
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
-
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" />
 </p>
 
 ## 🚀 Featured Projects
